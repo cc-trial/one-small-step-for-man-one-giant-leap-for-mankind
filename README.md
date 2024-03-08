@@ -1,2 +1,3 @@
-# one-small-step-for-man-one-giant-leap-for-mankind
-One small step for man, one giant leap for mankind repo
+# My Git Journey begins
+
+I just have started with Git, but yeah... what should I say? Here I am!
